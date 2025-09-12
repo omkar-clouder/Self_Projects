@@ -14,3 +14,10 @@ it is Simpale tool. and ready for Automatione.
      
 - https://github.com/omkar-clouder/Self_Projects.git
 - 
+
+
+Run This Script  = bash monitoring_tool.sh
+or
+make it exicutable = chmod +x monitoring_tool.sh
+check if exicutable = ls -l
+then = ./monitorring_tool.sh
